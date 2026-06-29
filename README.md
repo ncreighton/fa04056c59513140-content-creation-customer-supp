@@ -1,0 +1,2 @@
+# fa04056c59513140-content-creation-customer-supp
+Built for content creation professionals who are tired of spending hours building a system before you can actually use it.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Content Creation Customer Support Ticketing — ful
